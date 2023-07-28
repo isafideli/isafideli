@@ -3,7 +3,7 @@
 
 -👩‍💻 Atualmente trabalho como Service Desk
 
--🎓 Sou estudande de segurança da informação direcionado para segurança ofensiva (Red Team).
+-🎓 Sou estudande de segurança da informação com ênfase para segurança ofensiva (Red Team).
 
 ##
 🚀 Skills
