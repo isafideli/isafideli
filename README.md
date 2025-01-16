@@ -5,6 +5,8 @@
 
 -🎓 Sou estudante de segurança da informação com ênfase em segurança ofensiva (Red Team).
 
+iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1259566" style='border:none;'></iframe>
+
 ##
 🚀 Skills
 </div>
